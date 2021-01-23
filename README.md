@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-My passion for software development started at the age of 10 when I built a banking application. It helped me keep track of pennies I have earned by working at our family farm and spending them on football cards. Building tools to simplify work and free up time for more important things in life is still the main motivation to this day in my software development process. Either from building tools to increase revenue, or to improve development productivity, or to automate manual work. I am a toolmaker with 13+ years of professional software development experience and looking for a new challenge.
+I am a toolmaker with 13+ years of professional software development experience and looking for a new challenge.
